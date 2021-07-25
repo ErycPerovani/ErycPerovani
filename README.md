@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ErycPerovani
 - Estou interessado em aprender cada vez mai
 - 🌱 Atualmente estou aprendendo PHP
-- 💞️ I’m looking to collaborate on Desenvolvimento da tecnologia 
-- 📫 How to reach me @perovani_jr 
+- 💞️ Estou procurando colaborar no mundo do T.I
+- 📫 Como entrar em contato comigo @perovani_jr 
 
 <!---
 ErycPerovani/ErycPerovani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
