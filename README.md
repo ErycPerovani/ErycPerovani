@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ErycPerovani
-- Estou interessado em aprender cada vez mai
+- Estou interessado em aprender cada vez mais
+-
 - 🌱 Atualmente estou aprendendo PHP
 - 💞️ Estou procurando colaborar no mundo do T.I
 - 📫 Como entrar em contato comigo @perovani_jr 
